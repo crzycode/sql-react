@@ -2,10 +2,13 @@
   "name": "crud-sql",
   "version": "0.1.0",
   "private": true,
+  "proxy":"https://localhost:44346",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.4",
+    "cors-anywhere": "^0.4.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
